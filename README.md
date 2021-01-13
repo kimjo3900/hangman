@@ -1,2 +1,2 @@
 # hangman
-Text-based game written in Python
+Text-based game played on the console
